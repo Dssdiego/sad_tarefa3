@@ -79,7 +79,3 @@ if __name__ == "__main__":
     atributo = input('\nEscolha o atributo a ser calculado:\n')
     print('\nEntropia: ' + str(entropia(df[colunaResultado])))
     print('Ganho [' + atributo + ']: ' + str(ganho(atributo)))
-
-```
-
-
