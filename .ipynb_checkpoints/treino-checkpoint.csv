@@ -1,0 +1,15 @@
+dia,aspecto,temp,humidade,vento,jogar
+d1,sol,quente,elevada,fraco,não
+d2,sol,quente,elevada,forte,não
+d3,nuvens,quente,elevada,fraco,sim
+d4,chuva,ameno,elevada,fraco,sim
+d5,chuva,fresco,normal,fraco,sim
+d6,chuva,fresco,normal,forte,não
+d7,nuvens,fresco,normal,fraco,sim
+d8,sol,ameno,elevada,fraco,não
+d9,sol,fresco,normal,fraco,sim
+d10,chuva,ameno,normal,forte,sim
+d11,sol,ameno,normal,forte,sim
+d12,nuvens,ameno,elevada,forte,sim
+d13,nuvens,quente,normal,fraco,sim
+d14,chuva,ameno,elevada,forte,não
